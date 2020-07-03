@@ -3,18 +3,23 @@
 ### `前后端代码地址`
 
 后台服务地址：https://github.com/ranmaxli/springboot-login
+
 前端服务地址：https://github.com/ranmaxli/react-login
 
 ### `react项目搭建使用技术`
 
 create-react-app 脚手架
+
 axios Ajax请求
+
 andt  前端框架
+
 http-proxy-middleware 解决后台接口跨域问题
 
 ### `项目启动流程`
 
 yarn install 安装依赖
+
 yarn start 启动项目
 
 http://localhost:3000/ 访问地址
